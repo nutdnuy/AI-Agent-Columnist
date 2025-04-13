@@ -102,7 +102,7 @@ The `search_engine.py` module enables fetching real-time references and data fro
 This project is licensed under the MIT License (or another license of your choice). Please see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or further information, you can reach me at [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or further information, you can reach me at [your_email@example.com](mailto:Nutdnuy@Gmail.com).
 
 ---
 
