@@ -1,10 +1,5 @@
 # AI-Agent-Columnist
 
-
-
-```markdown
-# AI-Agent-Columnist
-
 **AI-Agent-Columnist** is a Python package designed to generate HBR-style articles using Storm [Synthesis of Topic Outlines through Retrieval and Multi-perspective Question Asking (STORM)] framework and Langchain tool. It provides tools to automatically create outlines, expand on topics, generate expert perspectives, and manage expert conversations—resulting in high-quality, well-structured content.
 
 ## Key Features
